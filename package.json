@@ -1,6 +1,6 @@
 {
   "name": "pim-simulator",
-  "homepage": "https://team-ronix.github.io/pim-simulator",
+  "homepage": "https://team-ronix.github.io/PIM-simulation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
